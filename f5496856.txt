@@ -1,0 +1,4 @@
+UEFI SHIM
+$Version: 15.8 $
+$BuildMachine: buildhost $
+$Commit: 5914984a1ffeab841f482c791426d7ca9935a5e6 $

@@ -1,0 +1,22 @@
+           "Name[pt_BR]": "ruvkr",
+                "Name[ro]": "ruvkr",
+                "Name[ru]": "ruvkr",
+                "Name[sa]": "रुवक्र",
+                "Name[sk]": "ruvkr",
+                "Name[sl]": "ruvkr",
+                "Name[sv]": "ruvkr",
+                "Name[tr]": "ruvkr",
+                "Name[uk]": "ruvkr",
+                "Name[x-test]": "xxruvkrxx",
+                "Name[zh_CN]": "ruvkr",
+                "Name[zh_TW]": "ruvkr"
+            }
+        ],
+        "Id": "Next",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Kay",
+        "Name[ar]": "كاي",
+        "Name[az]": "Kay",
+        "Name[be]": "Kay",
+        "Name[bg]": "Kay",
+        "Name[ca@valencia]": "Kap
